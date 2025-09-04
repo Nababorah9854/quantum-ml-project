@@ -25,4 +25,5 @@ Python, PyTorch, Pennylane, NumPy, Pandas, Matplotlib, Seaborn
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python main.py
+python sea_animal_classification.py
+
